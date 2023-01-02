@@ -7,5 +7,4 @@ The mechanics currently there in the repository are -
 * Movement And Collision - A player which can move and collides with the other objects in the scene
 * Shooting - Press space to shoot a bullet
 * Spawning - Press z to spawn and x to despawn squares
-
-I plan on adding gravity, animation, etc.
+* Gravity - Press the space bar to jump
