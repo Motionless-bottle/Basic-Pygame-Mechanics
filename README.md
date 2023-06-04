@@ -8,3 +8,5 @@ The mechanics currently there in the repository are -
 * Shooting - Press space to shoot a bullet
 * Spawning - Press z to spawn and x to despawn squares
 * Gravity - Press the space bar to jump
+
+(also I used a lot of Dafluffypotato tutorials.)
